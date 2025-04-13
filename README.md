@@ -36,3 +36,10 @@
 1. Visual Studio Code
 2. Cursor
 3. XAMPP
+
+## Referenced
+
+- Youtube
+- ChatGPT
+- Google
+- Various AI
